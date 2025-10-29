@@ -1,0 +1,13 @@
+# Test requirements for LangGraph CSV Analysis platform
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.0.0
+pytest-mock>=3.10.0
+requests>=2.28.0
+httpx>=0.24.0
+
+# For testing with real dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+fastapi>=0.95.0
+uvicorn>=0.20.0
