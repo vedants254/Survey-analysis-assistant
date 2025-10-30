@@ -1,4 +1,4 @@
-# LangGraph CSV Analysis Task
+# Analysis assistant
 
 ## Overview
 
