@@ -3,8 +3,7 @@
 ## Overview
 
 A production-grade Historical Multi-Table Data Analysis Platform built with LangGraph that provides conversational AI-powered analysis of CSV/Excel files with temporal comparison capabilities. The system uses an 8-node workflow orchestration engine to process multiple data files, align time series, generate Python analysis code, and provide intelligent insights.
-## Note : 
-As I'm not very familiar with Frontend tech stack, I have used Kiro's Claude and gemini cli to make that. Along with that, for few parts such as for celery workers integration and few sections of fast api (as im still learning that),  I have used. All code integration done with very thoughtful and each code review.
+
 ## Features
 
 ### Core Capabilities
