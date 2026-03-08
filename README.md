@@ -2,7 +2,7 @@
 
 ## Overview
 
-A production-grade Historical Multi-Table Data Analysis Platform built with LangGraph that provides conversational AI-powered analysis of CSV/Excel files with temporal comparison capabilities. The system uses an 8-node workflow orchestration engine to process multiple data files, align time series, generate Python analysis code, and provide intelligent insights. Setup locally !
+A production-grade Historical Multi-Table Data Analysis Platform built with LangGraph that provides conversational AI-powered analysis of CSV/Excel files with temporal comparison capabilities. The system uses an 8-node workflow orchestration engine to process multiple data files, align time series, generate Python analysis code, and provide intelligent insights. 
  
 ## Features
 
